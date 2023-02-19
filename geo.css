@@ -1,0 +1,97 @@
+
+
+.Europe{
+
+    position: absolute;
+    background-color: purple;
+    width: 100%;
+    height: 100%;
+    
+    
+}
+
+.Africa{
+
+    position: absolute;
+    background-color: sandybrown;
+    width: 100%;
+    height: 100%;
+    
+    
+}
+
+.Asia{
+
+    position: absolute;
+    background-color: darkturquoise;
+    width: 100%;
+    height: 100%;
+    
+    
+}
+
+.N_america{
+
+    position: absolute;
+    background-color: dimgray;
+    width: 100%;
+    height: 100%;
+    
+    
+}
+
+.S_america{
+
+    position: absolute;
+    background-color: indianred;
+    width: 100%;
+    height: 100%;
+    
+    
+}
+
+.Australia{
+
+    position: absolute;
+    background-color: goldenrod;
+    width: 100%;
+    height: 100%;
+    
+    
+}
+
+.Antarctica{
+
+    position: absolute;
+    background-color: blue;
+    width: 100%;
+    height: 100%;
+    
+    
+}
+
+img{
+
+    max-width: 500px;
+    max-height: 500px;
+    position: absolute;
+    right: 50%;
+    left: 50%;
+    top: 50%;
+    bottom: 50%;
+    transform: translate(-50%,-50%);
+    top: 400px;
+
+}
+
+#text{
+
+    position: relative;
+    top: 710px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-weight: 300;
+    font-size: 35px;
+    color: #eee;
+
+}
